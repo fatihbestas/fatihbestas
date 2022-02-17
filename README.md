@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fatihbestas
+- 👋 Hi, I’m Fatih
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning Unity, C#
 <!---

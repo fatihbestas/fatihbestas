@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity, C#
+- 👀 I’m interested in Game Development and Game AI
+- 🌱 I’m currently learning Unity, C# and Python
 <!---
 - 💞️ I’m looking to collaborate on ...
 --->

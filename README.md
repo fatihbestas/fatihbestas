@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fatih
-- 👀 I’m interested in game development
+- 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity, C#
 <!---
 - 💞️ I’m looking to collaborate on ...
